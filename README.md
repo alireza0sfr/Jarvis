@@ -17,7 +17,7 @@ Version = 1.0
 
 4- Add your apps to Startup function for your daily startup
 
-5- Choose your preferred voice type for example:
+5- Choose your preferred voice type on line 82 of the script for example:
 
 engine.setProperty('voice', voices[1].id) -> female voice (default) 
 
