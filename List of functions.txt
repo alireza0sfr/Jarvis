@@ -1,0 +1,35 @@
+Jarvis v1.0 :
+
+- wikipedia
+- youtube 
+- google
+- stackoverflow
+- time 
+- send email
+- how are u 
+- whats your name
+- exit
+- who made u
+- flip a coin
+- calculate
+- who am i 
+- why you came to the world
+- whats love
+- who are u 
+- reasons for u 
+- lock the window 
+- shutdown
+- sign out 
+- restart
+- location 
+- hibernate
+- write a note 
+- read a note
+- respond to Jarvis 
+- weather 
+- good morning 
+- will you be my gf/bf 
+- search the net 
+- dollar price 
+
+total of 30 functions
