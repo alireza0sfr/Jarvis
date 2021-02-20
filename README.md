@@ -10,7 +10,7 @@ Version = 1.0
 
 2- install the required modules using pip install -r requirements.txt
 
-3- Change the key variables on line 16-20 to be able to customize the voice assistant
+3- Change the key variables on config.ini file to be able to customize the voice assistant
 
 4- Add your apps to Startup function for your daily startup
 
