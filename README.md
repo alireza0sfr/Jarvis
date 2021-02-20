@@ -1,7 +1,10 @@
 # Jarvis
 Open-source voice assistant with basic functions
+
 Creator = Alireza Safari
+
 Contact = alireza.safaree@gmail.com
+
 Version = 1.0
 
 ## VERY IMPORTANT
